@@ -1,16 +1,23 @@
-# my_application_2
 
-A new Flutter project.
+# Solving three equations - three unknowns
 
-## Getting Started
+Solving three equations - three unknowns by Gauss-Jordan method
+Professor: Ibrahim Akbarbaghlo
+----
 
-This project is a starting point for a Flutter application.
+![Logo](https://s6.uupload.ir/files/add_a_heading_(2)_ty6h.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# By:Alikheiri 👋
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Features
+
+- Solving three equations with three unknowns
+- Display as a fraction
+- Avoid round-off error
+
+## Demo
+
+https://s6.uupload.ir/files/screenshot_1656933945_q89a.png
+![Image](https://s6.uupload.ir/files/screenshot_1656933945_q89a.png)
