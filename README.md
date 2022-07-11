@@ -4,14 +4,9 @@
 
 Solving three equations - three unknowns by Gauss-Jordan method
 # Linear Algebra |  Ali kheiri 
-# Solving three equations - three unknowns
-Solving three equations - three unknowns by Gauss-Jordan method
 ----
 
-
 # By:Alikheiri 👋
-
-
 ## Features
 
 - Solving three equations with three unknowns
