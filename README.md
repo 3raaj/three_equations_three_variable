@@ -3,14 +3,10 @@
 # Solving three equations - three unknowns
 
 Solving three equations - three unknowns by Gauss-Jordan method
-Professor: Ibrahim Akbarbaghlo
-# Linear Algebra |  Dr.Akbarbegloo
-    Student:Ali kheiri 
+# Linear Algebra |  Ali kheiri 
 # Solving three equations - three unknowns
 Solving three equations - three unknowns by Gauss-Jordan method
 ----
-
-![Logo](https://s6.uupload.ir/files/add_a_heading_(2)_ty6h.png)
 
 
 # By:Alikheiri 👋
